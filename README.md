@@ -1,6 +1,6 @@
-## Hello. I'm an  iOS App Developer
+# Hello. I'm an  iOS App Developer
 
-### Nitty & gritty
+## Nitty & gritty
 - 🌱 I’m **currently learning Swift/SwiftUI** to become a full-fledged iOS Developer.
   - 👩🏻‍💻 at Apple Foundation Program Advanced
   - 📍 in Montreuil, France
@@ -10,7 +10,7 @@
   - ⌚️ 3 worked weeks per month, from January to December 2026
 - 💼 See my **portfolio** below or on my website [anneferret.eu](https://anneferret.eu).
  
-### About me
+## About me
 - 🇪🇺 Born in France, living between France and the Netherlands.
 - 📚 I'm a published writer of short novels (in French).
 - 📝 I have an extensive background in journalism and communication.
