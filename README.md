@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello. I'm an  iOS App Developer
+
+### My dev profile
+- 🌱 I’m currently learning Swift/SwiftUI to become a full-fledged iOS Developer.
+  - 👩🏻‍💻 at **Apple Foundation Program Advanced**
+  - 📍 in Montreuil, France
+  - ⌚️ full-time training (until December 2025)
+- 💼 I'm looking for an apprenticeship to complete my training.
+  - 📍 anywhere in France
+  - ⌚️ 3 worked weeks per month, from January to December 2026
 
 <!--
 **ombremad/ombremad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
