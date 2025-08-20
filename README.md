@@ -15,6 +15,3 @@
 - 📚 I'm a published writer of short novels (in French).
 - 📝 I have an extensive background in journalism and communication.
 - 👾 I compose chip music on my Game Boy as a hobby since 2015!
-
-### How to reach
-- 📧 anne (at) anneferret.eu
