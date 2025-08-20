@@ -11,7 +11,7 @@
 - 💼 See my **portfolio** below or on my website [anneferret.eu](https://anneferret.eu).
  
 ### About me
-- 🇪🇺 Born in France, settled in the Netherlands. Living the European dream!
+- 🇪🇺 Born in France, living between France and the Netherlands.
 - 📚 I'm a published writer of short novels (in French).
 - 📝 I have an extensive background in journalism and communication.
 - 👾 I compose chip music on my Game Boy as a hobby since 2015!
