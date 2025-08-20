@@ -1,7 +1,7 @@
 # Hello. I'm an  iOS App Developer
 
 ## Nitty & gritty
-- 🌱 I’m **currently learning Swift/SwiftUI** to become a full-fledged iOS Developer.
+- 🌱 I’m **currently learning Swift/SwiftUI and more** to become a full-fledged iOS Developer.
   - 👩🏻‍💻 at Apple Foundation Program Advanced
   - 📍 in Montreuil, France
   - ⌚️ full-time training (until December 2025)
