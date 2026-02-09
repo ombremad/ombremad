@@ -2,8 +2,8 @@
 
 ## Nitty & gritty
 - 🌱 I'm currently in an apprenticeship, until Dec. 2026:
-  - 💼 I'm working as an all-around **App Developer at Dev-id**, Toulouse, France (3 weeks per month).
-  - 👩🏻‍💻 I'm attending **Apple Foundation Program Advanced** to perfect my skills as an iOS Developer (1 week per month).
+  - 👩🏻‍💻 I'm working as an all-around **App Developer at Dev-id**, Toulouse, France (3 weeks per month).
+  - 👩🏻‍🎓 I'm attending **Apple Foundation Program Advanced** to perfect my skills as an iOS Developer (1 week per month).
 
 See my **portfolio** below or on my website [anneferret.eu](https://anneferret.eu).
 
