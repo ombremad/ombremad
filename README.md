@@ -1,51 +1,41 @@
-# Hello. I'm an  iOS App Developer
+# Hello!
 
-## Nitty & gritty
-🌱 I'm currently in an apprenticeship, until Dec. 2026:
-- 👩🏻‍💻 I'm working as an all-around **App Developer at Dev-id**, Toulouse, France (3 weeks per month).
-- 👩🏻‍🎓 I'm attending **Apple Foundation Program Advanced** to perfect my skills as an iOS Developer (1 week per month).
+I'm **Anne**, a **full stack app developer**.
 
-See my **portfolio** below or on my website [anneferret.eu](https://anneferret.eu).
+- Also author, podcaster, chiptune composer.
+- Born in France, living in the Netherlands.
 
-## About me
-- 🇪🇺 Born in France, living between France and the Netherlands.
-- 📚 I'm a published writer of short novels (in French).
-- 📝 I have an extensive background in journalism and communication.
-- 👾 I compose chip music on my Game Boy (with [LSDj](https://www.littlesounddj.com/lsd/index.php)) as a hobby since 2015!
+I'm currently looking for a new professional opportunity!<br>
+📍 Amsterdam area<br>
+💻 On-site or full remote
 
-## My current experience includes
+## My tech stack
 
-### Front-end
+Technologies and tools I use to build applications.
 
-<img height="18" src="https://github.com/user-attachments/assets/58d1e529-15a2-4ace-9649-474cb8826f22" alt="Swift" title="Swift"/> 
-<img height="18" src="https://github.com/user-attachments/assets/5326852a-49f2-42d9-9518-bbc4abd043da" alt="SwiftUI" title="SwiftUI"/>
-Swift / SwiftUI stack (iOS / macOS apps)
+**Languages**<br>
+<img height="18" src="https://anneferret.eu/media/icons/typescript.svg" alt="" align="top"> TypeScript &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/javascript-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/javascript-light.svg" alt="" align="top"></picture> JavaScript &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/swift.svg" alt="" align="top"> Swift &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/html5.svg" alt="" align="top"> HTML5 &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/css.svg" alt="" align="top"> CSS3
 
-### Back-end
+**Frontend**<br>
+<img height="18" src="https://anneferret.eu/media/icons/vuedotjs.svg" alt="" align="top"> Vue.js &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/tanstack-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/tanstack-light.svg" alt="" align="top"></picture> TanStack Query &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/reactrouter.svg" alt="" align="top"> React Router &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/tailwindcss.svg" alt="" align="top"> Tailwind CSS &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/daisyui-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/daisyui-light.svg" alt="" align="top"></picture> DaisyUI &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/mui.svg" alt="" align="top"> Material UI &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/storybook.svg" alt="" align="top"> Storybook
 
-<img height="18" src="https://github.com/user-attachments/assets/07be2f1b-182b-44e4-82b7-0c35c4834a58" alt="TypeScript" title="TypeScript" />
-<img height="18" src="https://github.com/user-attachments/assets/26f803db-eb1e-49ae-b6ea-4f5755baf227" alt="NestJS" title="NestJS" />
-NestJS (back-end APIs in Node.js / TypeScript)<br/>
+**Backend**<br>
+<img height="18" src="https://anneferret.eu/media/icons/nodedotjs.svg" alt="" align="top"> Node.js &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/nestjs.svg" alt="" align="top"> NestJS &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/vapor-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/vapor-light.svg" alt="" align="top"></picture> Vapor / Fluent &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/prisma-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/prisma-light.svg" alt="" align="top"></picture> Prisma &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/swagger-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/swagger-light.svg" alt="" align="top"></picture> Swagger / OpenAPI
 
-<img height="18" src="https://github.com/user-attachments/assets/e1500e22-62a4-4039-ba2a-3428d4fe2153" alt="Vapor" title="Vapor"/>
-Vapor + Fluent ORM (back-end APIs in Swift)
+**iOS**<br>
+<img height="18" src="https://anneferret.eu/media/icons/swift.svg" alt="" align="top"> SwiftUI &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/xcode.svg" alt="" align="top"> Xcode &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/appstore.svg" alt="" align="top"> App Store
 
-### Databases
+**Databases**<br>
+<img height="18" src="https://anneferret.eu/media/icons/postgresql.svg" alt="" align="top"> PostgreSQL &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/mysql.svg" alt="" align="top"> MySQL &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/mariadb-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/mariadb-light.svg" alt="" align="top"></picture> MariaDB &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/mongodb.svg" alt="" align="top"> MongoDB
 
-<img height="18" src="https://github.com/user-attachments/assets/8c69a48c-4114-475f-8f39-92c63afa557f" alt="MySQL" title="MySQL"/>
-<img height="18" src="https://github.com/user-attachments/assets/6d1618ac-eee0-43db-8cff-d3578bb271a6" alt="MariaDB" title="MariaDB"/>
-SQL / MySQL / MariaDB... (relational database creation)<br/>
+**Services & infrastructure**<br>
+<img height="18" src="https://anneferret.eu/media/icons/docker.svg" alt="" align="top"> Docker &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/amazonwebservices.svg" alt="" align="top"> AWS &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/supabase.svg" alt="" align="top"> Supabase &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/stripe.svg" alt="" align="top"> Stripe
 
-<img height="18" src="https://github.com/user-attachments/assets/8b135e12-00ef-4078-8f84-cf1451646937" alt="mongoDB" title="mongoDB" />
-MongoDB / Mongoose ODM (document-oriented database creation)
+**Version control**<br>
+<img height="18" src="https://anneferret.eu/media/icons/git.svg" alt="" align="top"> Git &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/github-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/github-light.svg" alt="" align="top"></picture> GitHub &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/gitlab.svg" alt="" align="top"> GitLab &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/codeberg.svg" alt="" align="top"> Codeberg &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/forgejo.svg" alt="" align="top"> Forgejo
 
-### Miscellaneous
+**Tooling**<br>
+<img height="18" src="https://anneferret.eu/media/icons/vite.svg" alt="" align="top"> Vite &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/npm.svg" alt="" align="top"> npm &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/pnpm.svg" alt="" align="top"> pnpm &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/eslint.svg" alt="" align="top"> ESLint &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/oxc-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/oxc-light.svg" alt="" align="top"></picture> Oxlint &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/prettier.svg" alt="" align="top"> Prettier &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/vscode.svg" alt="" align="top"> VS Code &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/postman.svg" alt="" align="top"> Postman &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/ngrok-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/ngrok-light.svg" alt="" align="top"></picture> Ngrok
 
-<img height="18" src="https://github.com/user-attachments/assets/f51b0d23-2f49-4d38-88f1-0c530760a129" alt="Git" title="Git"/>
-Git (versioning tool)<br/>
-
-<img height="18" src="https://github.com/user-attachments/assets/bb9b8560-8504-4ce4-9425-13faa30e0db9" alt="Docker" title="Docker"/>
-Docker (image deployment)<br/>
-
-<img height="18" src="https://github.com/user-attachments/assets/94d419ca-00cb-4875-b224-796670de91ff" alt="Figma" title="Figma"/> 
-Figma (app design & prototyping)
+**Design**<br>
+<img height="18" src="https://anneferret.eu/media/icons/figma.svg" alt="" align="top"> Figma &nbsp;·&nbsp; <img height="18" src="https://anneferret.eu/media/icons/illustrator.svg" alt="" align="top"> Adobe Illustrator &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://anneferret.eu/media/icons/affinity-dark.svg"><img height="18" src="https://anneferret.eu/media/icons/affinity-light.svg" alt="" align="top"></picture> Affinity
